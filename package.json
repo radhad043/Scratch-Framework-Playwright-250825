@@ -2,7 +2,9 @@
   "name": "pp-250825",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "tests": "playwright test"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
