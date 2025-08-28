@@ -10,7 +10,7 @@ playwright/.auth
 /.env
 /package-lock.json
 /test-results.json
-//allure-results/
+/allure-results/
 
 
 
